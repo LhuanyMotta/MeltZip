@@ -179,12 +179,19 @@ python meltzip_cli.py Arquivo_Secreto.zip TOP500.txt
 
 ## 📷 Imagens da Aplicação
 
-> 💡 *Demonstrativo do MeltZip*
+> 💡 *Demonstrativo do MeltZip - Versão GUI*
 
 ![Tela Zip1](imagens/MeltZip1.png)
+
 ![Tela Zip2](imagens/MeltZip2.png)
+
+
 ![Tela Zip3](imagens/MeltZip3.png)
+
+> 💡 *Demonstrativo do MeltZip - Versão CLI*
+
 ![Tela Zip4](imagens/MeltZip4.png)
+
 ![Tela Zip5](imagens/MeltZip5.png)
 
 ---
