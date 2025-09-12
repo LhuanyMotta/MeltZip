@@ -132,14 +132,14 @@ python meltzip_cli.py Arquivo_Secreto.zip TOP500.txt
 
 ## ✨ Funcionalidades
 
-✅ Suporte a criptografia **AES** e **ZipCrypto**
-✅ Interface gráfica moderna com **tema escuro**
-✅ Interface de linha de comando **colorida**
-✅ Detecção automática do tipo de criptografia
-✅ Estatísticas em tempo real (**velocidade, tempo restante**)
-✅ Pausa e continuação do processo
-✅ Log detalhado de operações
-✅ Informações detalhadas sobre arquivos ZIP e wordlists
+- ✅ Suporte a criptografia **AES** e **ZipCrypto**
+- ✅ Interface gráfica moderna com **tema escuro**
+- ✅ Interface de linha de comando **colorida**
+- ✅ Detecção automática do tipo de criptografia
+- ✅ Estatísticas em tempo real (**velocidade, tempo restante**)
+- ✅ Pausa e continuação do processo
+- ✅ Log detalhado de operações
+- ✅ Informações detalhadas sobre arquivos ZIP e wordlists
 
 ---
 
@@ -173,10 +173,27 @@ python meltzip_cli.py Arquivo_Secreto.zip TOP500.txt
 
 ---
 
+## 📷 Imagens da Aplicação
+
+> 💡 *Demonstrativo do MeltScan*
+
+![Tela Zip1](imagens/MeltZip1.png)
+![Tela Zip2](imagens/MeltZip2.png)
+![Tela Zip3](imagens/MeltZip3.png)
+
+---
+
 ## ⚠️ Considerações Legais
 
 Esta ferramenta é fornecida apenas para fins **educacionais e de teste de segurança**.
 Certifique-se de ter **permissão adequada** antes de usar o MeltZip em qualquer arquivo ZIP.
+
+---
+
+## 🙋‍♀️ Autoria
+
+Desenvolvido por: **Lhuany Motta** [🔗 GitHub](https://github.com/LhuanyMotta)
+Versão: 1.0
 
 ---
 
