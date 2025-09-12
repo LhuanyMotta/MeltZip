@@ -78,10 +78,14 @@ MeltZip/
 ├── meltzip_gui.py          # Interface gráfica
 ├── meltzip_cli.py          # Interface de linha de comando
 ├── requirements.txt        # Dependências
+├── install.py              # Instalação de dependências
 ├── README.md               # Documentação completa
 └── test_files/             # Arquivos de teste (opcional)
     ├── Arquivo_Secreto.zip
-    ├── Arquivo_Secreto.zip
+    ├── Teste1.zip
+    ├── Teste2.zip
+    ├── Teste3.zip
+    ├── Teste4.zip
     └── TOP500.txt
 ```
 
