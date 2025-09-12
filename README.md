@@ -179,7 +179,7 @@ python meltzip_cli.py Arquivo_Secreto.zip TOP500.txt
 
 ## 📷 Imagens da Aplicação
 
-> 💡 *Demonstrativo do MeltScan*
+> 💡 *Demonstrativo do MeltZip*
 
 ![Tela Zip1](imagens/MeltZip1.png)
 ![Tela Zip2](imagens/MeltZip2.png)
