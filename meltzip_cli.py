@@ -76,7 +76,7 @@ class MeltZipCLI:
             
             # Exibe banner
             print(f"{Fore.GREEN}\n╔══════════════════════════════════════════════════╗")
-            print(f"║{Fore.YELLOW}          MELTZIP - QUEBRADOR DE SENHAS ZIP         {Fore.GREEN}║")
+            print(f"║{Fore.YELLOW}          MELTZIP - QUEBRADOR DE SENHAS ZIP       {Fore.GREEN}║")
             print(f"╚══════════════════════════════════════════════════╝{Style.RESET_ALL}")
             
             # Obtém informações do arquivo
@@ -180,7 +180,7 @@ def main():
     if cracker.password_found:
         elapsed = timedelta(seconds=int(time.time() - cracker.start_time))
         print(f"\n\n{Fore.GREEN}╔══════════════════════════════════════════════════╗")
-        print(f"║{Back.GREEN}{Fore.BLACK}          SENHA ENCONTRADA COM SUCESSO!          {Style.RESET_ALL}{Fore.GREEN}║")
+        print(f"║{Back.GREEN}{Fore.BLACK}          SENHA ENCONTRADA COM SUCESSO!           {Style.RESET_ALL}{Fore.GREEN}║")
         print(f"╚══════════════════════════════════════════════════╝{Style.RESET_ALL}")
         print(f"{Fore.GREEN}[+] Senha encontrada: {Fore.WHITE}{password}")
         print(f"{Fore.GREEN}[+] Tempo total: {Fore.WHITE}{elapsed}")
