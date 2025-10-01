@@ -7,7 +7,7 @@ Ferramenta avançada para quebra de senhas de arquivos ZIP com suporte a **AES**
 ## 📥 Baixar o MeltZip
 
 ```bash
-git clone https://github.com/seu-usuario/MeltZip.git
+git clone https://github.com/LhuanyMotta/MeltZip.git
 cd MeltZip
 ```
 
